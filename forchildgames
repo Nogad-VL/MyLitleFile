@@ -1,0 +1,6 @@
+[
+  {"name": "Воображарий Junior","price": "990 р.", "players":"3-9", "mtime": "30+ минут", "img":"https://github.com/Nogad-VL/Nogad-VL.github.io/blob/master/soobr.jpg"},
+  {"name": "Принцесса. Феи-крёстные","price": "490 р.", "players":"4-9", "mtime": "20-30 минут", "img":"controllers\\img\\princ.jpg"},
+  {"name": "Cut The Rope (издание Magic)","price": "690 р.", "players":"2-8", "mtime": "15+ минут", "img":"controllers\\img\\ctr.jpg"},
+  {"name": "Моя первая осада замка","price": "990 р.", "players":"1-4", "mtime": "20+ минут", "img":"controllers\\img\\mpos.jpg"}
+]
